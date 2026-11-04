@@ -1,0 +1,6 @@
+{
+  "name": "Cyberpunk Skitgubbe - Neon Vändtia",
+  "description": "Klassiskt svenskt Skitgubbe-kortspel i futuristisk cyberpunk-estetik med neonfärger, unika karaktärskort, smart AI och 3D-kordanimationer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
